@@ -5,12 +5,8 @@
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Raullize-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raullize-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raullize-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raullize-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Raullize-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<div><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,figma,py,c"/>
 </div> 
 
 ##
