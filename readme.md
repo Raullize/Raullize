@@ -21,5 +21,6 @@
 
 ## Projetos
 
-- [CalamityControl - Hackathon](https://github.com/Raullize/Hackathon)  
+- [CalamityControl - Hackathon](https://github.com/Raullize/Hackathon)
+- [LandingPage - DepsModels](https://github.com/Raullize/depsModels)  
 
