@@ -6,7 +6,7 @@
 </div>
 
 <div><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,figma,py,c"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,vscode,figma"/>
 </div> 
 
 ##
