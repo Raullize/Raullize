@@ -27,14 +27,13 @@
   <img src="https://skillicons.dev/icons?i=react,next"/>
 </div>
 
-## 🚀 Projetos
+## 🚀 Projects
 
 - **[LandingPage - DepsModels](https://github.com/Raullize/depsModels)**  
-  Landing Page desenvolvida para apresentar os serviços da DEPS Models.
+  Landing Page developed to showcase the services of DEPS Models.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
-  Sistema de gerenciamento de desastres, com foco em alertas e prevenção.
+  Disaster management system focused on alerts and prevention.
 
 - **[RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)**  
-  Plataforma sustentável para conectar microempresas afetadas pelas enchentes com a comunidade.  
-
+  Sustainable platform to connect micro-enterprises affected by floods with the community.
