@@ -24,7 +24,7 @@
 
 ## 📚 Learning
 <div>
-  <img src="https://skillicons.dev/icons?i=react,next"/>
+  <img src="https://skillicons.dev/icons?i=typescript,react,next"/>
 </div>
 
 ## 🚀 Projects
