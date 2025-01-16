@@ -1,16 +1,13 @@
-# Prazer! Eu sou o Raul Lize! 😎
+# Hello! I'm Raul Lize! 😎
+
 <div>
   <a href="https://github.com/Raullize">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark"/>
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
+  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark"/>
+  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
 </div>
 
-<div><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,vscode,figma"/>
-</div> 
-
-##
- 
+<!--
+## 🌐 Connect with me
 <div> 
   <a href="https://www.instagram.com/raullize/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/raul.lize" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -18,10 +15,26 @@
   <a href = "mailto:raullizeteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raullizeteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+-->
 
-## Projetos
+## 🛠️ Languages and Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,vscode,figma"/>
+</div>
 
-- [LandingPage - DepsModels](https://github.com/Raullize/depsModels)  
-- [CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)
-- [RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)
+## 📚 Learning
+<div>
+  <img src="https://skillicons.dev/icons?i=react,next"/>
+</div>
+
+## 🚀 Projetos
+
+- **[LandingPage - DepsModels](https://github.com/Raullize/depsModels)**  
+  Landing Page desenvolvida para apresentar os serviços da DEPS Models.
+
+- **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
+  Sistema de gerenciamento de desastres, com foco em alertas e prevenção.
+
+- **[RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)**  
+  Plataforma sustentável para conectar microempresas afetadas pelas enchentes com a comunidade.  
 
