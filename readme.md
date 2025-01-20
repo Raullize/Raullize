@@ -1,4 +1,4 @@
-# Hello! I'm Raul Lize! 😎
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&vCenter=true&width=800&lines=Hello+!+I'm+Raul+Lize+!+😎;A+passionate+learner+exploring+new+ideas+!)](https://www.linkedin.com/in/raullizeteixeira/)
 
 <div>
   <a href="https://github.com/Raullize">
