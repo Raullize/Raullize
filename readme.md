@@ -29,6 +29,9 @@
 
 ## 🚀 Projects
 
+- **[Stock DEPS](https://github.com/Raullize/stockDeps)**  
+  Intuitive and efficient inventory management system to organize products, clients, suppliers, and stock movements.
+
 - **[LandingPage - DepsModels](https://github.com/Raullize/depsModels)**  
   Landing Page developed to showcase the services of DEPS Models.
 
