@@ -37,6 +37,7 @@
 
 ---
 
+
 <div align="center">
   <p>Feel free to connect with me through any of the platforms below to exchange ideas, collaborate on projects, or just say hi!</p>
   <a href="https://www.linkedin.com/in/raullizeteixeira/" target="_blank">
@@ -54,4 +55,14 @@
   <a href="mailto:raullizeteixeira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+</div>
+
+<div align="center">
+  <p>Feel free to connect with me through any of the platforms below to exchange ideas, collaborate on projects, or just say hi!</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raullizeteixeira/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/raullize/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/raul.lize)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5195024711&text&type=phone_number&app_absent=0)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raullizeteixeira@gmail.com)
 </div>
