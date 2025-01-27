@@ -66,3 +66,13 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5195024711&text&type=phone_number&app_absent=0)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raullizeteixeira@gmail.com)
 </div>
+
+<div align="center">
+  <p>Feel free to connect with me through any of the platforms below to exchange ideas, collaborate on projects, or just say hi!</p>
+  
+  [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/raullizeteixeira/)
+  [![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://www.instagram.com/raullize/)
+  [![Facebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://www.facebook.com/raul.lize)
+  [![WhatsApp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg)](https://api.whatsapp.com/send/?phone=5195024711&text&type=phone_number&app_absent=0)
+  [![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:raullizeteixeira@gmail.com)
+</div>
