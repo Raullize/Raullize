@@ -1,21 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&vCenter=true&width=800&lines=Hello+!+I'm+Raul+Lize+!+😎;A+passionate+learner+exploring+new+ideas+!)](https://www.linkedin.com/in/raullizeteixeira/)
 
 <div>
+  <p>I'm a web developer passionate about technology, always seeking challenges and opportunities to learn and grow.</p>
+</div>
+
+## 📈 GitHub Statistics
+<div>
   <a href="https://github.com/Raullize">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark"/>
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
 </div>
-
-<!--
-## 🌐 Connect with me
-<div> 
-  <a href="https://www.instagram.com/raullize/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/raul.lize" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5195024711&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:raullizeteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raullizeteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
--->
 
 ## 🛠️ Languages and Tools
 <div>
@@ -40,3 +34,27 @@
 
 - **[RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)**  
   Sustainable platform to connect micro-enterprises affected by floods with the community.
+
+---
+
+<div align="center">
+  <p>Feel free to connect with me through any of the platforms below to exchange ideas, collaborate on projects, or just say hi!</p>
+  <a href="https://www.linkedin.com/in/raullizeteixeira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/raullize/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/raul.lize" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5195024711&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:raullizeteixeira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+
+
