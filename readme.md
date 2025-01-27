@@ -70,7 +70,7 @@
 <div align="center">
   <p>Feel free to connect with me through any of the platforms below to exchange ideas, collaborate on projects, or just say hi!</p>
   
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" style="color: #0A66C2;">](https://www.linkedin.com/in/raullizeteixeira/)
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" style="color: #fff;">](https://www.linkedin.com/in/raullizeteixeira/)
   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" style="color: #E4405F;">](https://www.instagram.com/raullize/)
   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" style="color: #1877F2;">](https://www.facebook.com/raul.lize)
   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" width="30" style="color: #25D366;">](https://api.whatsapp.com/send/?phone=5195024711&text&type=phone_number&app_absent=0)
