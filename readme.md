@@ -17,6 +17,9 @@
 - **[Stock DEPS](https://github.com/Raullize/stockDeps)**  
   Intuitive and efficient inventory management system to organize products, clients, suppliers, and stock movements.
 
+- **[Armazém Girassol](https://github.com/Raullize/armazem-girassol)**  
+  The platform is an e-commerce site for the Girassol company, displaying products synced in real-time with the StockDeps inventory system. It includes a shopping cart that redirects users to WhatsApp to complete their orders with a pre-configured message.
+
 - **[LandingPage - DepsModels](https://github.com/Raullize/depsModels)**  
   Landing Page developed to showcase the services of DEPS Models.
 
