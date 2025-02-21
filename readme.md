@@ -1,15 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=header"/>
+<a href="https://github.com/Raullize">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=header"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Raul+Lize!;I'm+20+years+old;I'm+from+Charqueadas,+RS;I+study+Internet+Systems+Development+at+IFSul;Let's+Connect!+😎)](https://www.linkedin.com/in/raullizeteixeira/)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Raul+Lize!;I'm+20+years+old;I'm+from+Charqueadas,+RS;I+study+Internet+Systems+Development+at+IFSul;Let's+Connect!+%F0%9F%98%8E)](https://www.linkedin.com/in/raullizeteixeira/)
+
+
 
 ## 🛠️ Languages and Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,vscode,figma,notion"/>
+  <a href="https://github.com/Raullize">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,vscode,figma,notion"/>
+  </a>
 </div>
 
 ## 📚 Learning
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript,react,next"/>
+  <a href="https://github.com/Raullize">
+    <img src="https://skillicons.dev/icons?i=typescript,react,next"/>
+  </a>
 </div>
 
 ## 🚀 Projects
@@ -29,11 +37,12 @@
 - **[RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)**  
   Sustainable platform to connect micro-enterprises affected by floods with the community.
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 <div>
   <a href="https://github.com/Raullize">
-  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark&include_all_commits=true&count_private=true""/>
-  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
+    <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
+  </a>
 </div>
     
 ---
@@ -48,4 +57,6 @@
   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" style="color: #EA4335;">](mailto:raullizeteixeira@gmail.com)
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=footer"/>
+<a href="https://github.com/Raullize">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=footer"/>
+</a>
