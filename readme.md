@@ -9,7 +9,7 @@
 ## 🛠️ Languages and Tools
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,git,github,vscode,figma,notion"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java,py,git,github,vscode,figma,notion"/>
   </a>
 </div>
 
