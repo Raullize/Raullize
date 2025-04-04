@@ -14,7 +14,7 @@
 ## 📚 Learning
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,react,next"/>
+    <img src="https://skillicons.dev/icons?i=typescript,react,next,nodejs"/>
   </a>
 </div>
 
