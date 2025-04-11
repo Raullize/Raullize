@@ -24,7 +24,8 @@
   Intuitive and efficient inventory management system to organize products, clients, suppliers, and stock movements.
 
 - **[Armazém Girassol](https://github.com/Raullize/armazem-girassol)**  
-  The platform is an e-commerce site for the Girassol company, displaying products synced in real-time with the StockDeps inventory system. It includes a shopping cart that redirects users to WhatsApp to complete their orders with a pre-configured message.
+  E-commerce platform for Armazém Girassol, displaying products in real time by syncing with the StockDeps inventory system.
+
 
 - **[LandingPage - DepsModels](https://github.com/Raullize/depsModels)**  
   Landing Page developed to showcase the services of DEPS Models.
@@ -36,13 +37,22 @@
   Sustainable platform to connect micro-enterprises affected by floods with the community.
 
 ## 📊 GitHub Statistics
+
 <div>
   <a href="https://github.com/Raullize">
     <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
   </a>
 </div>
-    
+
+## 📈 Contribution Graph (Custom Style)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raullize/Raullize/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raullize/Raullize/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raullize/Raullize/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 <div align="center">
