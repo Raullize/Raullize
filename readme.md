@@ -27,7 +27,7 @@
   E-commerce platform for Armazém Girassol, displaying products in real time by syncing with the StockDeps inventory system.
 
 
-- **[LandingPage - DepsModels](https://github.com/Raullize/depsModels)**  
+- **[DepsModels](https://github.com/Raullize/depsModels)**  
   Landing Page developed to showcase the services of DEPS Models.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
