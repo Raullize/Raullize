@@ -7,14 +7,14 @@
 ## 🛠️ Languages and Tools
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java,git,github,vscode,figma,notion"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,git,github,vscode,figma,notion"/>
   </a>
 </div>
 
 ## 📚 Learning
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,react,next,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=typescript"/>
   </a>
 </div>
 
