@@ -35,6 +35,9 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Modern and responsive landing page template for gyms, featuring IMC calculator, schedule display, and team showcase.
 
+- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
+  Customizable Pomodoro timer with modern UI/UX, dark theme, smooth animations, keyboard shortcuts, and i18n.
+
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Disaster management system focused on alerts and prevention.
 
