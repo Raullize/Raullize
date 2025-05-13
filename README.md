@@ -70,7 +70,6 @@
 
 <div align="center">
   <p>Let's connect on <strong>LinkedIn</strong>! I'm always open to sharing ideas, collaborating on projects, or simply networking with fellow tech enthusiasts.</p>
-  
   <div>
     <a href="https://www.linkedin.com/in/raullizeteixeira/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218575757-34fdcb51-ec06-4fc9-94d6-cfe7d764617e.gif" height="40" width="40" /></a>
   </div>
