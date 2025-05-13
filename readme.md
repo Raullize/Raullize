@@ -2,17 +2,19 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=header"/>
 </a>
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Raul+Lize!;I'm+20+years+old;I'm+from+Charqueadas,+RS;I+study+Internet+Systems+Development+at+IFSul;Let's+Connect!+%F0%9F%98%8E)](https://www.linkedin.com/in/raullizeteixeira/)
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
+<img align="right" height="150" src="assets/programing.gif"/>
 
 🎓 I'm currently studying **Internet Systems Technology** at **IFSul - Charqueadas** and hold a technical degree in **IT**.  
 
 🚀 Passionate about web development, I'm always exploring ways to build solutions that make a real impact — from responsive websites to complete inventory management systems.  
 
-✨ I enjoy collaborating in teams, taking on challenges, and learning continuously — whether it’s mastering a new framework, improving UI/UX, or diving into backend logic.  
+✨ I enjoy collaborating in teams, taking on challenges, and learning continuously — whether it's mastering a new framework, improving UI/UX, or diving into backend logic.  
 
-> “Technology is not just about coding — it's about solving problems, connecting people, and transforming ideas into reality.” 🚀
+> "Technology is not just about coding — it's about solving problems, connecting people, and transforming ideas into reality." 🚀
 
 🔗 Check out some of my projects below and feel free to connect!
 
@@ -33,7 +35,7 @@
 ## 🚀 Featured Projects
 
 - **[My Personal Portfolio](https://github.com/Raullize/my-personal-portfolio)**  
-  Personal portfolio built with React and Next.js to present skills, timeline, and projects, with multilingual support.
+  Personal portfolio built with React, Next.js and Tailwind to present skills, timeline, and projects, with multilingual support.
 
 - **[Stock DEPS](https://github.com/Raullize/stockDeps)**  
   Intuitive and efficient inventory management system to organize products, clients, suppliers, and stock movements.
