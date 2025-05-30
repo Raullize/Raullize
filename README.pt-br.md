@@ -52,6 +52,9 @@
 - **[DeepFocus](https://github.com/Raullize/deep-focus)**  
   Timer Pomodoro personalizado com interface moderna, tema escuro, animações suaves, atalhos de teclado e suporte para múltiplos idiomas.
 
+- **[OctoHub](https://github.com/Raullize/octoHub)**  
+  Plataforma estratégica que integra desenvolvimento web, marketing digital e consultoria para impulsionar negócios de forma inteligente.
+
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Sistema para gerenciamento de desastres com foco em alertas e prevenção.
 
