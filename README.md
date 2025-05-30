@@ -53,7 +53,7 @@
   Customizable Pomodoro timer with modern UI/UX, dark theme, smooth animations, keyboard shortcuts, and i18n.
 
 - **[OctoHub](https://github.com/Raullize/octoHub)**  
-  Plataforma estratégica que integra desenvolvimento web, marketing digital e consultoria para impulsionar negócios de forma inteligente.
+  Strategic platform that integrates web development, digital marketing, and consulting to boost businesses intelligently.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Disaster management system focused on alerts and prevention.
