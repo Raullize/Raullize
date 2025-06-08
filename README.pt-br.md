@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,mysql,git,github,vscode,figma,notion"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,mysql,postgresql,git,github,vscode,figma,notion"/>
   </a>
 </div>
 
