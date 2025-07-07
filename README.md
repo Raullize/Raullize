@@ -28,7 +28,7 @@
 ## 📚 Learning
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,linux,docker"/>
+    <img src="https://skillicons.dev/icons?i=typescript,linux,docker,aws"/>
   </a>
 </div>
 
