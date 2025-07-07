@@ -21,14 +21,14 @@
 ## 🛠️ Tecnologias e Ferramentas
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
   </a>
 </div>
 
 ## 📚 Estudando
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,linux,docker"/>
+    <img src="https://skillicons.dev/icons?i=typescript,linux,docker,aws"/>
   </a>
 </div>
 
