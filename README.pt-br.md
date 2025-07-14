@@ -4,7 +4,11 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Raul+Lize!;Tenho+20+anos;Sou+de+Charqueadas,+RS;Estudo+Tecnologia+em+Sistemas+para+Internet+no+IFSul;Vamos+nos+conectar!+%F0%9F%98%8E)](https://www.linkedin.com/in/raullizeteixeira/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/raullizeteixeira/">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Raul+Lize!;Tenho+20+anos;Sou+de+Charqueadas,+RS;Estudo+Tecnologia+em+Sistemas+para+Internet+no+IFSul;Vamos+nos+conectar!+%F0%9F%98%8E" alt="Typing SVG"/>
+  </a>
+</div>
 
 <img align="right" height="150" src="assets/programing.gif"/>
 
@@ -18,21 +22,8 @@
 
 🔗 Dê uma olhada nos meus projetos abaixo e vamos nos conectar!
 
-## 🛠️ Tecnologias e Ferramentas
-<div>
-  <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
-  </a>
-</div>
-
-## 📚 Estudando
-<div>
-  <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,linux,docker,aws"/>
-  </a>
-</div>
-
-## 🚀 Projetos em Destaque
+<details>
+  <summary>🚀 Projetos em Destaque ⚡</summary><br>
 
 - **[Meu Portfólio Pessoal](https://github.com/Raullize/my-personal-portfolio)**  
   Portfólio desenvolvido com React, Next.js e Tailwind apresentando minhas habilidades, trajetória e projetos, com suporte para múltiplos idiomas.
@@ -60,8 +51,30 @@
 
 - **[RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)**  
   Plataforma que conecta microempresas afetadas pelas enchentes à comunidade, promovendo sustentabilidade e recuperação econômica.
+  
+</details>
 
-## 📈 Gráfico de Contribuição
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias e Ferramentas</b>
+
+<div>
+  <a href="https://github.com/Raullize">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
+  </a>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/><b> Estudando</b>
+
+<div>
+  <a href="https://github.com/Raullize">
+    <img src="https://skillicons.dev/icons?i=typescript,linux,docker,aws"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raullizeteixeira/">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=3500&pause=1200&color=fff&center=true&vCenter=true&width=900&lines=Passo+a+passo,+dia+após+dia.;O+progresso+é+construído+com+consistência." alt="Typing SVG"/>
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raullize/Raullize/output/pacman-contribution-graph-dark.svg">
