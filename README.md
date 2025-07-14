@@ -10,7 +10,9 @@
   </a>
 </div>
 
-<img align="right" height="150" src="assets/programing.gif"/>
+<a href="https://www.linkedin.com/in/raullizeteixeira/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</a>
 
 🎓 I'm currently studying **Internet Systems Technology** at **IFSul - Charqueadas** and hold a technical degree in **IT**.  
 
@@ -82,12 +84,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raullize/Raullize/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<a href="https://www.linkedin.com/in/raullizeteixeira/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</a>
 
 <div align="center">
   <p>Let's connect on <strong>LinkedIn</strong>! I'm always open to sharing ideas, collaborating on projects, or simply networking with fellow tech enthusiasts.</p>
   <div>
-    <a href="https://www.linkedin.com/in/raullizeteixeira/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218575757-34fdcb51-ec06-4fc9-94d6-cfe7d764617e.gif" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/raullizeteixeira/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218575757-34fdcb51-ec06-4fc9-94d6-cfe7d764617e.gif" height="40" width="40"/></a>
   </div>
 </div>
 
