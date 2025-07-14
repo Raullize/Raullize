@@ -10,7 +10,9 @@
   </a>
 </div>
 
-<img align="right" height="150" src="assets/programing.gif"/>
+<a href="https://www.linkedin.com/in/raullizeteixeira/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</a>
 
 🎓 Estudante de **Tecnologia em Sistemas para Internet** no **IFSul - Charqueadas** e técnico em **Informática**.
 
@@ -82,7 +84,9 @@
   <img alt="gráfico de contribuição pacman" src="https://raw.githubusercontent.com/Raullize/Raullize/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<a href="https://www.linkedin.com/in/raullizeteixeira/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</a>
 
 <div align="center">
   <p>Vamos nos conectar no <strong>LinkedIn</strong>! Estou sempre disposto a trocar ideias, colaborar em projetos ou simplesmente conhecer outros entusiastas de tecnologia.</p>
