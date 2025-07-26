@@ -68,7 +68,7 @@
 
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,linux,docker,aws"/>
+    <img src="https://skillicons.dev/icons?i=typescript,prisma,docker,linux,aws"/>
   </a>
 </div>
 
