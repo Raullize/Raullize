@@ -39,14 +39,17 @@
 - **[DepsModels](https://github.com/Raullize/depsModels)**  
   Landing Page criada para apresentar os serviços da DEPS Models.
   
+- **[OctoHub](https://github.com/Raullize/octoHub)**  
+  Plataforma estratégica que integra desenvolvimento web, marketing digital e consultoria para impulsionar negócios de forma inteligente.
+
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Template de landing page para academias com visual moderno e responsivo, calculadora de IMC, grade de horários e seção da equipe.
 
+- **[ContaComigo](https://github.com/Raullize/ContaComigo)**  
+  Plataforma web para finanças pessoais com integração Open Finance. Visualize contas, transações, metas e relatórios interativos em um só painel.
+
 - **[DeepFocus](https://github.com/Raullize/deep-focus)**  
   Timer Pomodoro personalizado com interface moderna, tema escuro, animações suaves, atalhos de teclado e suporte para múltiplos idiomas.
-
-- **[OctoHub](https://github.com/Raullize/octoHub)**  
-  Plataforma estratégica que integra desenvolvimento web, marketing digital e consultoria para impulsionar negócios de forma inteligente.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Sistema para gerenciamento de desastres com foco em alertas e prevenção.
