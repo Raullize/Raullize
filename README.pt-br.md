@@ -45,7 +45,7 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Template de landing page para academias com visual moderno e responsivo, calculadora de IMC, grade de horários e seção da equipe.
 
-- **[ContaComigo](https://github.com/Raullize/ContaComigo)**  
+- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
   Plataforma web para finanças pessoais com integração Open Finance. Visualize contas, transações, metas e relatórios interativos em um só painel.
 
 - **[DeepFocus](https://github.com/Raullize/deep-focus)**  
