@@ -45,7 +45,7 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Modern and responsive landing page template for gyms, featuring IMC calculator, schedule display, and team showcase.
 
-- **[ContaComigo](https://github.com/Raullize/ContaComigo)**  
+- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
   Web platform for personal finance management with Open Finance integration. View accounts, transactions, goals, and interactive reports in one dashboard.
 
 - **[DeepFocus](https://github.com/Raullize/deep-focus)**  
