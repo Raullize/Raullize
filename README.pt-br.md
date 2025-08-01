@@ -30,14 +30,17 @@
 - **[Meu Portfólio Pessoal](https://github.com/Raullize/my-personal-portfolio)**  
   Portfólio desenvolvido com React, Next.js e Tailwind apresentando minhas habilidades, trajetória e projetos, com suporte para múltiplos idiomas.
 
+- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
+  Timer Pomodoro personalizado com interface moderna, tema escuro, animações suaves, atalhos de teclado e suporte para múltiplos idiomas.
+
+- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
+  Plataforma web para finanças pessoais com integração Open Finance. Visualize contas, transações, metas e relatórios interativos em um só painel.
+
 - **[Stock DEPS](https://github.com/Raullize/stockDeps)**  
   Sistema de gestão de estoque intuitivo e eficiente para organizar produtos, clientes, fornecedores e movimentações.
 
 - **[Armazém Girassol](https://github.com/Raullize/armazem-girassol)**  
   E-commerce para o Armazém Girassol que exibe produtos em tempo real, sincronizados com o sistema de estoque StockDeps.
-
-- **[DepsModels](https://github.com/Raullize/depsModels)**  
-  Landing Page criada para apresentar os serviços da DEPS Models.
   
 - **[OctoHub](https://github.com/Raullize/octoHub)**  
   Plataforma estratégica que integra desenvolvimento web, marketing digital e consultoria para impulsionar negócios de forma inteligente.
@@ -45,11 +48,8 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Template de landing page para academias com visual moderno e responsivo, calculadora de IMC, grade de horários e seção da equipe.
 
-- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
-  Plataforma web para finanças pessoais com integração Open Finance. Visualize contas, transações, metas e relatórios interativos em um só painel.
-
-- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
-  Timer Pomodoro personalizado com interface moderna, tema escuro, animações suaves, atalhos de teclado e suporte para múltiplos idiomas.
+- **[DepsModels](https://github.com/Raullize/depsModels)**  
+  Landing Page criada para apresentar os serviços da DEPS Models.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Sistema para gerenciamento de desastres com foco em alertas e prevenção.

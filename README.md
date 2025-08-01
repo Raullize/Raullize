@@ -30,14 +30,17 @@
 - **[My Personal Portfolio](https://github.com/Raullize/my-personal-portfolio)**  
   Personal portfolio built with React, Next.js and Tailwind to present skills, timeline, and projects, with multilingual support.
 
+- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
+  Customizable Pomodoro timer with modern UI/UX, dark theme, smooth animations, keyboard shortcuts, and i18n.
+
+- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
+  Web platform for personal finance management with Open Finance integration. View accounts, transactions, goals, and interactive reports in one dashboard.
+
 - **[Stock DEPS](https://github.com/Raullize/stockDeps)**  
   Intuitive and efficient inventory management system to organize products, clients, suppliers, and stock movements.
 
 - **[Armazém Girassol](https://github.com/Raullize/armazem-girassol)**  
   E-commerce platform for Armazém Girassol, displaying products in real time by syncing with the StockDeps inventory system.
-
-- **[DepsModels](https://github.com/Raullize/depsModels)**  
-  Landing Page developed to showcase the services of DEPS Models.
   
 - **[OctoHub](https://github.com/Raullize/octoHub)**  
   Strategic platform that integrates web development, digital marketing, and consulting to boost businesses intelligently.
@@ -45,11 +48,8 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Modern and responsive landing page template for gyms, featuring IMC calculator, schedule display, and team showcase.
 
-- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
-  Web platform for personal finance management with Open Finance integration. View accounts, transactions, goals, and interactive reports in one dashboard.
-
-- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
-  Customizable Pomodoro timer with modern UI/UX, dark theme, smooth animations, keyboard shortcuts, and i18n.
+- **[DepsModels](https://github.com/Raullize/depsModels)**  
+  Landing Page developed to showcase the services of DEPS Models.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Disaster management system focused on alerts and prevention.
