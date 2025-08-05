@@ -48,7 +48,7 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Template de landing page para academias com visual moderno e responsivo, calculadora de IMC, grade de horários e seção da equipe.
 
-- **[DepsModels](https://github.com/Raullize/depsModels)**  
+- **[DepsModels](https://github.com/Raullize/deps-models)**  
   Landing Page criada para apresentar os serviços da DEPS Models.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
