@@ -48,7 +48,7 @@
 - **[MyGym](https://github.com/Raullize/MyGym)**  
   Modern and responsive landing page template for gyms, featuring IMC calculator, schedule display, and team showcase.
 
-- **[DepsModels](https://github.com/Raullize/depsModels)**  
+- **[DepsModels](https://github.com/Raullize/deps-models)**  
   Landing Page developed to showcase the services of DEPS Models.
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
