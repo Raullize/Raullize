@@ -2,8 +2,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=header"/>
 </a>
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/raullizeteixeira/">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1200&color=fff&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Raul+Lize!;I'm+20+years+old;I'm+from+Charqueadas,+RS;I+study+Internet+Systems+Development+at+IFSul;Let's+Connect!+%F0%9F%98%8E" alt="Typing SVG"/>
