@@ -43,7 +43,7 @@
 - **[OctoHub](https://github.com/Raullize/octoHub)**  
   Strategic platform that integrates web development, digital marketing, and consulting to boost businesses intelligently.
 
-- **[MyGym](https://github.com/Raullize/MyGym)**  
+- **[MyGym](https://github.com/Raullize/my-gym)**  
   Modern and responsive landing page template for gyms, featuring IMC calculator, schedule display, and team showcase.
 
 - **[DepsModels](https://github.com/Raullize/deps-models)**  
