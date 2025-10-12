@@ -69,7 +69,7 @@
 
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=typescript,prisma,docker,linux,aws"/>
+    <img src="https://skillicons.dev/icons?i=prisma,typescript,docker,linux,aws"/>
   </a>
 </div>
 
