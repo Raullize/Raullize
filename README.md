@@ -28,9 +28,6 @@
 - **[My Personal Portfolio](https://github.com/Raullize/my-personal-portfolio)**  
   Personal portfolio built with React, Next.js and Tailwind to present skills, timeline, and projects, with multilingual support.
 
-- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
-  Customizable Pomodoro timer with modern UI/UX, dark theme, smooth animations, keyboard shortcuts, and i18n.
-
 - **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
   Web platform for personal finance management with Open Finance integration. View accounts, transactions, goals, and interactive reports in one dashboard.
 
@@ -46,8 +43,13 @@
 - **[MyGym](https://github.com/Raullize/my-gym)**  
   Modern and responsive landing page template for gyms, featuring IMC calculator, schedule display, and team showcase.
 
+- **[DeepFocus](https://github.com/Raullize/deep-focus)**  
+  Customizable Pomodoro timer with modern UI/UX, dark theme, smooth animations, keyboard shortcuts, and i18n.
+
+<!-- 
 - **[DepsModels](https://github.com/Raullize/deps-models)**  
   Landing Page developed to showcase the services of DEPS Models.
+-->
 
 - **[CalamityControl - Hackathon2023](https://github.com/Raullize/Hackathon2023)**  
   Disaster management system focused on alerts and prevention.
