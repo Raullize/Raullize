@@ -54,6 +54,9 @@
 
 - **[RenovaRS - Hackathon2024](https://github.com/Raullize/Hackathon2024)**  
   Sustainable platform to connect micro-enterprises affected by floods with the community.
+
+- **[MIRC - Hackathon2025](https://github.com/Raullize/Hackathon2025)**
+  Intelligent Climate Resilience Mapper. Platform with AI (Gemini Chatbot) and multi-channel alerts to combat climate risks in Rio Grande do Sul (RS).
   
 </details>
 
