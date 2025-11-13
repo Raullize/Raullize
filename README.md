@@ -12,18 +12,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </a>
 
-🎓 I'm currently studying **Internet Systems Technology** at **IFSul - Charqueadas** and hold a technical degree in **IT**.  
+I'm currently studying **Internet Systems Technology** at **IFSul - Charqueadas** and hold a technical degree in **IT**.  
 
-🚀 Passionate about web development, I'm always exploring ways to build solutions that make a real impact — from responsive websites to complete inventory management systems.  
+Passionate about web development, I'm always exploring ways to build solutions that make a real impact — from responsive websites to complete inventory management systems.  
 
-✨ I enjoy collaborating in teams, taking on challenges, and learning continuously — whether it's mastering a new framework, improving UI/UX, or diving into backend logic.  
+I enjoy collaborating in teams, taking on challenges, and learning continuously — whether it's mastering a new framework, improving UI/UX, or diving into backend logic.  
 
-> "Technology is not just about coding — it's about solving problems, connecting people, and transforming ideas into reality." 🚀
+> "Technology is not just about coding — it's about solving problems, connecting people, and transforming ideas into reality."
 
 🔗 Check out some of my projects below and feel free to connect!
 
 <details>
-  <summary>🚀 Featured Projects ⚡</summary><br>
+  <summary>Featured Projects</summary><br>
 
 - **[My Personal Portfolio](https://github.com/Raullize/my-personal-portfolio)**  
   Personal portfolio built with React, Next.js and Tailwind to present skills, timeline, and projects, with multilingual support.
@@ -66,7 +66,7 @@
 
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
   </a>
 </div>
 
@@ -74,7 +74,7 @@
 
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=prisma,typescript,docker,linux,aws"/>
+    <img src="https://skillicons.dev/icons?i=prisma,docker,linux,aws"/>
   </a>
 </div>
 
