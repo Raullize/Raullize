@@ -23,7 +23,7 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
 🔗 Check out some of my projects below and feel free to connect!
 
 <details>
-  <summary>Featured Projects</summary><br>
+  <summary>Featured Projects (click to expand)</summary><br>
 
 - **[My Personal Portfolio](https://github.com/Raullize/my-personal-portfolio)**  
   Personal portfolio built with React, Next.js and Tailwind to present skills, timeline, and projects, with multilingual support.
