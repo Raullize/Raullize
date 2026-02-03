@@ -31,9 +31,6 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
 - **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
   Web platform for personal finance management with Open Finance integration. View accounts, transactions, goals, and interactive reports in one dashboard.
 
-- **[Stock DEPS](https://github.com/Raullize/stockDeps)**  
-  Intuitive and efficient inventory management system to organize products, clients, suppliers, and stock movements.
-
 - **[Armazém Girassol](https://github.com/Raullize/armazem-girassol)**  
   E-commerce platform for Armazém Girassol, displaying products in real time by syncing with the StockDeps inventory system.
   
