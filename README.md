@@ -63,7 +63,7 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
 
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,next,tailwind,nodejs,mysql,postgresql,git,github"/>
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,next,tailwind,nodejs,prisma,mysql,postgresql,git,github"/>
   </a>
 </div>
 
@@ -71,7 +71,7 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
 
 <div>
   <a href="https://github.com/Raullize">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,prisma,docker,linux,aws"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,linux,aws"/>
   </a>
 </div>
 
