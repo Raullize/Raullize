@@ -14,9 +14,9 @@
 
 I'm currently studying **Internet Systems Technology** at **IFSul - Charqueadas** and hold a technical degree in **IT**.  
 
-Passionate about web development, I'm always exploring ways to build solutions that make a real impact — from responsive websites to complete inventory management systems.  
+Passionate about **Full Stack development**, I'm always exploring ways to build solutions that make a real impact — from responsive web apps to AI-powered platforms integrating Open Finance and educational chatbots.  
 
-I enjoy collaborating in teams, taking on challenges, and learning continuously — whether it's mastering a new framework, improving UI/UX, or diving into backend logic.  
+I enjoy collaborating in teams, taking on challenges, and learning continuously — from backend architecture and API design to polished UI/UX.  
 
 > "Technology is not just about coding — it's about solving problems, connecting people, and transforming ideas into reality."
 
@@ -28,8 +28,11 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
 - **[My Personal Portfolio](https://github.com/Raullize/my-personal-portfolio)**  
   Personal portfolio built with React, Next.js and Tailwind to present skills, timeline, and projects, with multilingual support.
 
-- **[ContaComigo](https://github.com/Raullize/conta-comigo)**  
-  Web platform for personal finance management with Open Finance integration. View accounts, transactions, goals, and interactive reports in one dashboard.
+- **[ContaComigo](https://github.com/Raullize/ContaComigo)**  
+  PoC for personal finance management with Open Finance: consolidated dashboard, budget limits, and an educational AI chatbot (Gemini). Hexagonal backend with NestJS + PostgreSQL/Prisma, React frontend.
+
+- **[AprovaAI](https://github.com/Raullize/AprovaAI)**  
+  Intelligent and gamified study platform for exam preparation (ENEM and professional certifications), with customizable mock exams, detailed feedback, and AI integration.
 
 - **[Armazém Girassol](https://github.com/Raullize/armazem-girassol)**  
   E-commerce platform for Armazém Girassol, displaying products in real time by syncing with the StockDeps inventory system.
@@ -65,7 +68,7 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/><b> Learning</b>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/><b> Studying</b>
 
 <div>
   <a href="https://github.com/Raullize">
