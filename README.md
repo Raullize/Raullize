@@ -57,6 +57,9 @@ I enjoy collaborating in teams, taking on challenges, and learning continuously 
 
 - **[MIRC - Hackathon2025](https://github.com/Raullize/Hackathon2025)**
   Intelligent Climate Resilience Mapper. Platform with AI (Gemini Chatbot) and multi-channel alerts to combat climate risks in Rio Grande do Sul (RS).
+
+- **[CareFlow - Hackathon2026](https://github.com/Raullize/Hackathon2026)**
+  Oncology care deadline tracking platform with an operational calendar, alerts, metrics, AI-assisted report structuring, and a read-only patient link.
   
 </details>
 
